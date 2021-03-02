@@ -1,0 +1,4 @@
+Penjelasan:
+Ketika aplikasi dijalankan untuk pertama kali, tampil list dengan tulisan angka 1 sampai 20. Tetapi pada layar, yang ditampilkan hanya sampai angka 17 karena layar yang kurang besar.
+
+Ketika tulisan angka tersebut di-klik, maka akan muncul Toast dengan tulisan “Kata … dipilih” lalu kata yang terpilih memiliki tambahan kata “… pernah diklik”. Apabila tombol FAB di-klik maka tulisan angka akan bertambah dimana tulisan tersebut bertambah dimulai dari angka 21. Setelah di-klik, akan ada Toast dengan notifikasi.

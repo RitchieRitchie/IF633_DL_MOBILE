@@ -1,0 +1,16 @@
+Ritchie-00000032761
+
+Terdapat 4 toogle pada kodingan week 5 ini, yaitu Rect untuk membuat Kotak, Oval untuk membuat Lingkaran, Line untuk membuat garis lurus dan Path untuk membuat garis bebas sesuai dengan gerak jari. Kemudian pada masing-masing canvas, terdapat slider untuk mengatur kombinasi warna RGB (Red, Green dan Blue).
+
+Kegunaan:
+1. RadioButton adalah button yang memiliki 2 status, yaitu aktif atau nonaktif.
+2. RadioGroup berfungsi untuk membuat set button. Ketika salah 1 button pada set tersebut aktif maka button yang lain akan menjadi nonaktif.
+3. Seekbar pada Canvas App adalah slider progress untuk masing-masing warna RGB.
+4. Bitmap pada Canvas App adalah semua yang digambarkan dalam bentuk bitmap yang memungkinkan user untuk membuat bentuk bebas pada bidang 2 dimensi dilayar.
+5. setColor berfungsi untuk meng-set warna paint menjadi default color.
+6. setDither berfungsi untuk mengatur bit warna yang lebih presisi.
+7. setAntiAlias berfungsi untuk memperhalus bitmap menjadi high-resolution image.
+8. setStyle(Paint.Style.STROKE) berfungsi untuk mengontrol bentuk geometri dengan style STROKE.
+9. setStrokeJoin(Paint.Join.ROUND) berfungsi untuk menentukan garis dengan kurva yang digabung sehingga akan membuat sebuah lingkaran.
+10. setStrokeCap(Paint.Cap.ROUND) berfungsi untuk menentukan titik awal dan akhir pada pembuatan stroke yang berbentuk lingkaran.
+11. setStrokeWidth(-) berfungsi untuk mengatur tebal dari stroke saat membuat garis/stroke.
