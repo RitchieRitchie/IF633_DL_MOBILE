@@ -1,0 +1,9 @@
+Ritchie - 00000032761
+
+Terdapat 3 Tutorial dalam week06 dimana masing-masing tutorial memberikan efek animasi yang berbeda-beda yang akan dijelaskan di bawah berikut ini:
+
+- Pada tutorial week06A/week06 dimana aplikasi yang dijalankan adalah untuk mengaktifkan animasi lingkaran yang akan membesar dimana Anda mengklik layar tersebut.
+
+- Pada tutorial week06B dimana aplikasi yang dijalankan adalah animasi kuda berlari yang gambarnya didapatkan modul dari e-learning yang ditaruhkan ke folder layout ‘drawing’ yang nantinya akan dimasukkan ke dalam kodingan <animation list> dalam kuda_lari.xml
+
+- Pada tutorial week06C dimana aplikasi yang dijalankan adalah untuk mengaktifkan dua animasi pada suatu gambar(satu naik turun dan satunya lagi berputar) dengan menggunakan fungsi Fling dimana gambar akan berputar dan fungsi Spring dimana gambar akan naik turun
