@@ -1,0 +1,8 @@
+Ritchie - 00000032761
+
+Pada week08, kita diajarkan tentag Android Storage, Saved Instance dan Share Preferences. Terdapat 2 tutorial dalam week08 yang akan saya jelaskan tentang behavior dari masing-masing aplikasi tutorial tersebut:
+
+- Pada tutorial week08A, dijalankan aplikasi berupa text editor sederhana dimana kita dapat memilih pilihan untuk memilih dimana file akan disimpan (temporary, internal dan external). Jika file disimpan dalam temporary, maka memori tersebut akan hilang saat aplikasi kita di-close, sedangkan dalam internal dan external, file akan langsung disimpan dalam memori sehingga file tidak akan hilang meskipn aplikasi tersebut ditutup.
+
+- Pada tutorial week08B, dijalankan aplikasi berupa counter dan dapat mengganti warna background-nya. Sebelum menambahkan COUNTER_KEY dan WARNA_KEY, saat device diputar, counter dan warna background akan kembali seperti semula.  Tetapi setelah KEY tersebut ditambahkan, counter dan warna background tidak berubah lagi saat diputar, tetapi hal tersebut tidak berlaku saat di-back dan dibuka kembali aplikasinya. Setelah ditambahkan tipe data Shared Preferences, count dan warna background-nya tidak lagi berubah walaupun aplikasi diputar, di-back dan dibuka kembali. 
+
