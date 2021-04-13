@@ -1,0 +1,9 @@
+Ritchie - 00000032761
+Link Github : https://github.com/RitchieRitchie/IF633_DL_MOBILE 
+*Selama ini saya gak menaruh link karena sudah dikumpul link-nya di discord, tapi ini untuk tes saja
+
+Pada week09, kita diajarkan tentang SQLite Database dan Room. Setelah pengujian, inilah yang dapat saya simpulkan :
+
+- Pada tutorial week09, aplikasi dimulai sebuah form yg berisi nim, nama dan email yang akan kita input dimana hasil inputan tersebut akan ditampilkan dalam bentuk list recyclerview. List yang telah dibuat dapat dihapus datanya dengan swipe kiri, dan dapat mengedit datanya dengan swipe kanan. Terdapat juga tombol ‘Hapus Semua’ dimana semua list yang telah dimasukkan akan terhapus secara keseluruhan.
+
+
