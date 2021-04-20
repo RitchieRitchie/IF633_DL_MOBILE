@@ -1,0 +1,7 @@
+Ritchie - 00000032761
+Link Github : https://github.com/RitchieRitchie/IF633_DL_MOBILE
+
+Terdapat 3 tutorial, dimana masing-masing akan saya jelaskan di bawah ini :
+1. Pada  week10a dan week10b, terdapat tombol untuk memulai service yang akan menjalankan progress bar. Pada week10a, service dijalankan dengan menggunakan asynctask, sedangkan pada week10b digunakan asynctask loader. Kesimpulan yang didapatkan saat menjalankan kedua program tersebut adalah proses yang dijalankan pada week10b lebih cepat jika dibandingkan dengan week 10a. 
+
+2. Pada week10c terdapat 2 tombol, yaitu mulai service dan waktu service. Saat tombol mulai service di klik maka progress service akan dijalankan dan menampilkannya di logcat,  tetapi saat tombol waktu service ditekan, maka service pada logcat akan berhenti dan waktu service akan ditampilkan melalui toast pada program. 
