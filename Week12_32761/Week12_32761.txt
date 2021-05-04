@@ -1,0 +1,7 @@
+Ritchie - 00000032761
+Link Github : https://github.com/RitchieRitchie/IF633_DL_MOBILE
+
+Terdapat 2 tutorial yang cutup singkat, dimana masing-masing akan saya jelaskan di bawah ini :
+1. Pada  week10a , dibuat pendeteksi sensor dimana aplikasi yang akan mendeteksi sensor apa saja yang tersedia pada device.
+
+2. Pada week10b terdapat 2 tombol, dibuat pembacaan data sensor dimana aplikasi akan membaca dua sensor yaitu light sensor dan proximity sensor. Saat sensor ditest, aplikasi akan memberikan realtime data sensor sesuai perubahan yang dihasilkan dari penggunaan device.
